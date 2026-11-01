@@ -1,2 +1,2 @@
-# hupu-quantumultx
-虎扑去广告 Quantumult X 适配
+# quantumultx-scripts
+Quantumult X 脚本与重写规则
