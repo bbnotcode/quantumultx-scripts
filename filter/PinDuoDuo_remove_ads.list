@@ -1,0 +1,14 @@
+# 拼多多配套域名拦截；原插件域名规则去重转换
+host, titan.pinduoduo.com, reject
+host, xg.pinduoduo.com, reject
+host, cdl-1.pddpic.com, reject
+host, cdl-p2.pddpic.com, reject
+host, cd-1.pddpic.com, reject
+host, apm.pinduoduo.com, reject
+host, th-b.pinduoduo.com, reject
+host, ta.pinduoduo.com, reject
+host, th.pinduoduo.com, reject
+host, th-a.pinduoduo.com, reject
+host, ta-a.pinduoduo.com, reject
+host, meta.pinduoduo.com, reject
+host, apm-a.pinduoduo.com, reject
